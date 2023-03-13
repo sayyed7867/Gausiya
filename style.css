@@ -1,0 +1,326 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.navbar-brand img {
+    height: 50px;
+    width: 58px;
+}
+
+.heading1 {
+    background-color: yellow;
+    margin-top: 20px;
+}
+
+.heading1 h2 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.heading1 p {
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+
+.first {
+    border: none;
+    height: 670px;
+    margin-top: 60px;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 5px 8px rgb(224, 220, 220);
+
+}
+
+.first:hover {
+    background-color: yellow;
+    color: black;
+}
+
+.pic1 {
+    border: none;
+    height: 300px;
+    background: url(pic1.jpg);
+
+}
+
+.second {
+    border: none;
+    height: 670px;
+    margin-top: 60px;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 5px 8px rgb(224, 220, 220);
+    border-radius: 30px;
+
+}
+
+.second:hover {
+    background-color: yellow;
+    color: black;
+}
+
+.pic2 {
+    border: none;
+    height: 300px;
+    background: url(pic2.jpg);
+}
+
+.third {
+    border: none;
+    height: 670px;
+    margin-top: 60px;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 5px 8px rgb(224, 220, 220);
+    border-radius: 30px;
+
+}
+
+.third:hover {
+    background-color: yellow;
+    color: black;
+}
+
+.pic3 {
+    border: none;
+    height: 300px;
+    background: url(pic3.png);
+
+}
+
+#home button {
+    background-color: rgb(224, 220, 220);
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#home button:hover {
+    background-color: black;
+    color: white;
+}
+
+
+
+
+.first1 {
+    border: none;
+    height: 670px;
+    margin-top: 60px;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 5px 8px rgb(224, 220, 220);
+    border-radius: 30px;
+
+}
+
+.first1:hover {
+    background-color: yellow;
+    color: black;
+}
+
+.img1 {
+    border: none;
+    height: 300px;
+    background: url(pic4.jpg);
+}
+
+.second1 {
+    border: none;
+    height: 670px;
+    padding: 10px;
+    margin-top: 60px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 5px 8px rgb(224, 220, 220);
+    border-radius: 30px;
+
+}
+
+.second1:hover {
+    background-color: yellow;
+    color: black;
+}
+
+.img2 {
+    border: none;
+    height: 300px;
+    background: url(pic5.jpg);
+}
+
+.third1 {
+    border: none;
+    height: 670px;
+    margin-top: 60px;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 5px 8px rgb(224, 220, 220);
+    border-radius: 30px;
+
+}
+
+.third1:hover {
+    background-color: yellow;
+    color: black;
+}
+
+.img3 {
+    border: none;
+    height: 300px;
+    background: url(pic6.jpg);
+}
+
+.first2 {
+    border: none;
+    height: 670px;
+    margin-top: 60px;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 5px 8px rgb(224, 220, 220);
+    border-radius: 30px;
+
+}
+
+.first2:hover {
+    background-color: yellow;
+    color: black;
+}
+
+.photo1 {
+    border: none;
+    height: 300px;
+    background: url(pic7.jpg);
+}
+
+.second2 {
+    border: none;
+    height: 670px;
+    margin-top: 60px;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 5px 8px rgb(224, 220, 220);
+    border-radius: 30px;
+
+}
+
+.second2:hover {
+    background-color: yellow;
+    color: black;
+}
+
+.photo2 {
+    border: none;
+    height: 300px;
+    background: url(pic8.jpg);
+}
+
+.third2 {
+    border: none;
+    height: 670px;
+    margin-top: 60px;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 5px 8px rgb(224, 220, 220);
+    border-radius: 30px;
+
+}
+
+.third2:hover {
+    background-color: yellow;
+    color: black;
+}
+
+.photo3 {
+    border: none;
+    height: 300px;
+    background: url(pic9.jpg);
+}
+
+
+
+
+/* form  */
+
+.form{
+    border: 1px solid yellow;
+    margin-top: 20px;
+    background-color: rgb(237, 237, 211);
+    padding: 20px;
+    width: 500px;
+    margin-left: 400px;
+    border-radius: 30px;
+    box-shadow: 5px 8px rgb(224, 220, 220);
+}
+
+.form h3 {
+    text-align: center;
+}
+
+.btn-primary {
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    text-align: center;
+    background-color: white;
+    color: black;
+    margin-top: 10px;
+}
+
+input {
+    border: 2px solid black;
+}
+
+
+
+
+
+
+/* phone  */
+
+@media only screen and (max-width:1170px) {
+
+    .dropbtn {
+        margin-left: 130px;
+    }
+
+    .form {
+        margin-left: 40px;
+        width: 80%;
+    }
+
+    .btn-primary {
+        margin-left: 100px;
+    }
+
+    .dropdown-content {
+        background-color: #09c02a;
+        color: white;
+        margin-left: 100px;
+    }
+
+}
